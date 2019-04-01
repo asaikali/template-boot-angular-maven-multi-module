@@ -32,3 +32,4 @@ while running `ng serve` from the command line and everything just works.
 
 * There is no security setup between the Angular App and the SpringBoot Backend.
 
+* If you would like to gradle instead of maven checkout `https://ordina-jworks.github.io/architecture/2018/10/12/spring-boot-angular-gradle.html`
