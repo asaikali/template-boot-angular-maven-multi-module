@@ -1,6 +1,6 @@
 # template-boot-angular-maven-multi-module
 
-![Java CI with Maven](https://github.com/asaikali/template-boot-angular-maven-multi-module/workflows/Java%20CI%20with%20Maven/badge.svg)
+![CI](https://github.com/asaikali/template-boot-angular-maven-multi-module/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 This repo shows how to setup a project to use SpringBoot for implementing an API 
 and Angular for the frontend without affecting the workflow of the backend 
