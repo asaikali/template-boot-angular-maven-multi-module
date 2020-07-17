@@ -1,4 +1,4 @@
-# boot-angular-multi-module
+# template-boot-angular-maven-multi-module
 
 This repo shows how to setup a project to use SpringBoot for implementing an API 
 and Angular for the frontend without affecting the workflow of the backend 
