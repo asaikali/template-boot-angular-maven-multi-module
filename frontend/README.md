@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
-To upgrade your system to the lastest angular cli you can use 
+To upgrade your system to the latest angular cli you can use 
 ```bash
 npm uninstall -g angular-cli
 npm install -g @angular/cli@latest
